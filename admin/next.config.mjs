@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   env: {
-    BACKEND_URL: process.env.BACKEND_URL || "https://TODO-NEW-BACKEND-URL",
+    BACKEND_URL: process.env.BACKEND_URL || "https://gamezone-55.onrender.com",
   },
 };
 export default nextConfig;
